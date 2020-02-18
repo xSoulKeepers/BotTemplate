@@ -67,7 +67,7 @@ class DiscordBot {
         // Register commands
         this.bot.registry
             .registerGroups([
-                { id: 'kyle', name: `Kyle`},
+                { id: 'lucas', name: `Lucas`},
                 { id: 'music', name: `Music`},
                 { id: 'moderation', name: 'Moderation'}
             ])
